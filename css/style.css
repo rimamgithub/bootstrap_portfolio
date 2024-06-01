@@ -1,0 +1,46 @@
+.activated{
+    color: antiquewhite;
+}
+.col{
+    /* display: flex; */
+    color: rgb(39, 39, 250);
+    margin-top: 50px;
+    margin-left: 80px;
+}
+.banner-img{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 2px solid blue;
+    width: 350px;
+    height: 400px;
+}
+.img-fluid{
+    max-width: 100%;
+    height: auto;
+    height: auto;
+}
+
+.banner-text{
+    margin: auto;
+    line-height: 10px;
+}
+col .h2{
+    margin: auto;
+    color: rgb(39, 39, 250);
+}
+.edu-img{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 400px;
+    height: 400px;
+}
+
+.text-start{
+    margin-top: 50px;
+    font-weight: 500;
+}
+.dropdown{
+    margin-top: 60px;
+}
